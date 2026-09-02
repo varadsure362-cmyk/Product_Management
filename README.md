@@ -220,6 +220,10 @@ Configure application settings dynamically via environment variables:
 **database **<img width="1437" height="666" alt="image" src="https://github.com/user-attachments/assets/915937c7-6859-4f05-a976-0d3487785e8f" />,
 <img width="1482" height="624" alt="image" src="https://github.com/user-attachments/assets/05089d60-bfc3-464a-a6fe-c911cb4722a6" />,
 <img width="1289" height="745" alt="image" src="https://github.com/user-attachments/assets/8ee57b3b-3a1f-4d55-95cb-8653a3f1f890" />
+**CODE IN MY SYSTEM**
+
+<img width="976" height="1043" alt="image" src="https://github.com/user-attachments/assets/9a164e73-36f2-40fe-a2b7-b9c6e6fd2311" />
+
 
 
 
