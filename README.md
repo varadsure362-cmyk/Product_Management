@@ -210,14 +210,21 @@ Configure application settings dynamically via environment variables:
 
 ## 📷 Screenshots & Demo
 
-Place your project screenshots in the [`docs/screenshots/`](file:///e:/Product-Management/docs/screenshots) directory:
 
-| Feature | Screenshot |
-|---|---|
-| **Swagger UI Documentation** | ![Swagger UI](docs/screenshots/swagger-ui.png) |
-| **Admin Login & JWT Token** | ![Admin Login](docs/screenshots/admin-login.png) |
-| **Product & Item CRUD Operations** | ![Product CRUD](docs/screenshots/product-crud.png) |
-| **Standardized Error Handling (400 Bad Request)** | ![Error Response](docs/screenshots/error-response.png) |
+
+
+
+ **Swagger UI Documentation** | ![Swagger UI](<img width="903" height="715" alt="image" src="https://github.com/user-attachments/assets/7b1f24f2-83c4-492f-8f66-5711e4ea97b7" />,
+<img width="872" height="866" alt="image" src="https://github.com/user-attachments/assets/4da8875e-bd8f-4e34-ae6f-0440a02d9568" />,
+<img width="889" height="862" alt="image" src="https://github.com/user-attachments/assets/f7e102de-59c0-4169-a7fa-1f3e3b81585a" />)
+**database **<img width="1437" height="666" alt="image" src="https://github.com/user-attachments/assets/915937c7-6859-4f05-a976-0d3487785e8f" />,
+<img width="1482" height="624" alt="image" src="https://github.com/user-attachments/assets/05089d60-bfc3-464a-a6fe-c911cb4722a6" />,
+<img width="1289" height="745" alt="image" src="https://github.com/user-attachments/assets/8ee57b3b-3a1f-4d55-95cb-8653a3f1f890" />
+
+
+
+
+
 
 ---
 
