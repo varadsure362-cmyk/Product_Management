@@ -208,6 +208,19 @@ Configure application settings dynamically via environment variables:
 
 ---
 
+## 📷 Screenshots & Demo
+
+Place your project screenshots in the [`docs/screenshots/`](file:///e:/Product-Management/docs/screenshots) directory:
+
+| Feature | Screenshot |
+|---|---|
+| **Swagger UI Documentation** | ![Swagger UI](docs/screenshots/swagger-ui.png) |
+| **Admin Login & JWT Token** | ![Admin Login](docs/screenshots/admin-login.png) |
+| **Product & Item CRUD Operations** | ![Product CRUD](docs/screenshots/product-crud.png) |
+| **Standardized Error Handling (400 Bad Request)** | ![Error Response](docs/screenshots/error-response.png) |
+
+---
+
 ## Running Locally
 
 ### Prerequisites
