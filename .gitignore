@@ -1,0 +1,18 @@
+# Target & Maven
+target/
+backend/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.log
+.env
