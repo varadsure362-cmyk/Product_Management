@@ -1,4 +1,4 @@
-##PRODx
+PRODx
 
 # Product Management API
 
