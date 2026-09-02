@@ -1,3 +1,5 @@
+##PRODx
+
 # Product Management API
 
 ## Overview
@@ -223,6 +225,10 @@ Configure application settings dynamically via environment variables:
 **CODE IN MY SYSTEM**
 
 <img width="976" height="1043" alt="image" src="https://github.com/user-attachments/assets/9a164e73-36f2-40fe-a2b7-b9c6e6fd2311" />
+
+
+** JUNIT TESTING**
+<img width="1452" height="680" alt="image" src="https://github.com/user-attachments/assets/8571d68a-8561-4888-bec6-a1458c17a3ce" />
 
 
 
